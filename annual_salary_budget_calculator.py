@@ -1,5 +1,7 @@
 # Loop
-    # Ask user for their annual salary
+user_annual_salary = input("Hello! Please input your annual salary: ")
+
+
     # If invalid value
         # Print "Invalid value!"
     # Print entire budget
